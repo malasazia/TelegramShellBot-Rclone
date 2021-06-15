@@ -13,5 +13,5 @@ if [[ -n $BOT_TOKEN && -n $OWNER_ID ]]; then
 fi
 
 echo "SETUP COMPLETED"
-ulimit -v 500000
+
 npm start
